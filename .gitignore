@@ -25,3 +25,9 @@ buildNumber.properties
 /.nb-gradle/
 /build/
 .idea
+
+
+#VSCODE
+.settings/
+.classpath
+.project
