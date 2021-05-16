@@ -1,0 +1,34 @@
+# Maven
+target/
+
+# IDE
+.classpath
+.project
+/bin/
+
+# VSCode
+.vscode
+.settings/
+
+# doc
+diagrama*
+*.jpg
+*.md
+!README.md
+single_Dockerfile.txt
+
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/build/
+.idea
